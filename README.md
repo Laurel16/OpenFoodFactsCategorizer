@@ -97,7 +97,7 @@ The names of the categories were also cleaned to eliminate duplicates due to dif
 
 ## 🚿 Clean the data
 
-We We have applied the following preprocessing:
+We have applied the following preprocessing:
 - remove punctuation
 - remove non alphabetical characters (numbers, special characters)
 - remove accentuated characters
